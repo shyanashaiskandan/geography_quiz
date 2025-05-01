@@ -29,27 +29,6 @@ A full-stack web application for testing and improving your geography knowledge 
 
 ---
 
-## 📁 Project Structure
-
-```
-client/
-├── src/
-│   ├── components/     # React components
-│   ├── redux/         # State management
-│   ├── hooks/         # Custom React hooks
-│   ├── helper/        # Utility functions
-│   ├── styles/        # CSS and styling
-│   └── database/      # Database configurations
-│
-server/
-├── controllers/       # API controllers
-├── models/           # Database models
-├── router/           # API routes
-└── database/         # Database connection
-```
-
----
-
 ## 🚀 Getting Started
 
 ### ✅ Prerequisites
